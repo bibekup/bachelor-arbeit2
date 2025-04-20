@@ -2,7 +2,7 @@
 
 This project implements facial emotion detection using deep learning models (CNN, CNN-LSTM, CNN-RNN) trained on the FER-2013 dataset. It supports training, evaluation, hyperparameter tuning, and real-time inference from a webcam.
 
-## 📁 Project Structure
+## Project Structure
 
     - `fer2013.csv`:                        Dataset used for training and testing.
 
